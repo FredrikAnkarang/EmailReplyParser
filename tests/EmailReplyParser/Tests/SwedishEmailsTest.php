@@ -57,4 +57,11 @@ Det låter intressant. Skicka avtalet.', EmailReplyParser::parseReply($body));
 Toppen, tack! Ordnat.', EmailReplyParser::parseReply($body));
     }
 
+    public function testIphoneSigEmail()
+    {
+        $body = $this->getFixtures('Swedish/iphoneSig.txt');
+
+        $this->assertEquals('Här är ett nytt mejl', EmailReplyParser::parseReply($body));
+    }
+
 }
