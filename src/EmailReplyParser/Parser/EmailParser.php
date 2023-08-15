@@ -40,7 +40,7 @@ class EmailParser
         '/^\s*(Op\s.+?(schreef|geschreven).+:)$/ms', // Op DATE schreef NAME <EMAIL>:, Op DATE heeft NAME <EMAIL> het volgende geschreven:
         '/^\s*((W\sdniu|Dnia)\s.+?(pisze|napisał(\(a\))?):)$/msu', // W dniu DATE, NAME <EMAIL> pisze|napisał:
         '/^\s*(Den\s.+\sskrev\s.+:)$/m', // Den DATE skrev NAME <EMAIL>:
-        '/^\s*(Den\s.+\s<.+>\sskrev:)$/m', // Den DATE NAME, skrev <EMAIL>:
+        '/^\s*(Den\s.+\s<.+>\sskrev:)$/m', // Den DATE, NAME <EMAIL> skrev:
         '/^\s*(Am\s.+\sum\s.+\sschrieb\s.+:)$/m', // Am DATE um TIME schrieb NAME:
         '/^(在.+写道：)$/ms', // > 在 DATE, TIME, NAME 写道：
         '/^(20[0-9]{2}\..+\s작성:)$/m', // DATE TIME NAME 작성:
@@ -99,7 +99,7 @@ class EmailParser
                     $this->addFragment($fragment);
 
                     $fragment = null;
-                } elseif (empty($line) && $this->isQuoteHeader($first)) {
+                } elseif ($this->isQuoteHeader($first)) {
                     $fragment->isQuoted = true;
                     $this->addFragment($fragment);
 

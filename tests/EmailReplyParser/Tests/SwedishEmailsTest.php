@@ -64,4 +64,12 @@ Toppen, tack! Ordnat.', EmailReplyParser::parseReply($body));
         $this->assertEquals('Här är ett nytt mejl', EmailReplyParser::parseReply($body));
     }
 
+    public function testYahooEmail2()
+    {
+        $body = $this->getFixtures('Swedish/yahoo2.txt');
+
+        $this->assertEquals('Hej!
+Ok det ska jag göra.', EmailReplyParser::parseReply($body));
+    }
+
 }
