@@ -1,0 +1,32 @@
+Hej igen, Här kommer ytterligare ett test.
+
+
+    Den fredag 4 augusti 2023 kl. 13:21:19 CEST, Herman Holgert <hermanholgert@yahoo.com> skrev:  
+ 
+  Här är ett nytt test.
+
+
+    Den fredag 4 augusti 2023 kl. 11:54:23 CEST, Herman Holgert <hermanholgert@yahoo.com> skrev:  
+ 
+  När släpper ni ytterligare uppdateringar?
+Mvh Herman
+    Den fredag 4 augusti 2023 kl. 11:52:07 CEST, Herman Holgert <hermanholgert@yahoo.com> skrev:  
+ 
+  Coolt!
+Det verkar fungera bra.
+    Den fredag 4 augusti 2023 kl. 11:51:03 CEST, Herman Holgert från Exteal Testing <herman.holgert@exteal-testing-staging.exteal-mail.com> skrev:  
+ 
+  #yiv1264280723 #yiv1264280723outlook a{padding:0;}#yiv1264280723 body{font-weight:400;}#yiv1264280723 .yiv1264280723ReadMsgBody{width:100%;}#yiv1264280723 .yiv1264280723ExternalClass{width:100%;}#yiv1264280723 img {border:0;max-width:100%;height:auto;outline:none;display:inline-block;margin:0;padding:0;text-decoration:none;line-height:100%;}#yiv1264280723 #yiv1264280723backgroundTable{min-height:100% !important;margin:0;padding:0;width:100% !important;} #yiv1264280723 .yiv1264280723main {font-family:Helvetica, Arial, sans-serif;letter-spacing:0;width:100%;}#yiv1264280723 table {border-spacing:0;border-collapse:separate;table-layout:fixed;}#yiv1264280723 td {padding:0;font-family:Helvetica, Arial, sans-serif;}#yiv1264280723 a {border:none;outline:none !important;}#yiv1264280723 .yiv1264280723content-td {color:#222;line-height:20px;}#yiv1264280723 .yiv1264280723content-td > :first-child {margin-top:0;padding-top:0;}#yiv1264280723 .yiv1264280723content-td h1 {font-size:1.3em;font-weight:bold;line-height:25px;margin-top:20px;margin-bottom:5px;}#yiv1264280723 .yiv1264280723content-td h1 + h2 {margin-top:0 !important;}#yiv1264280723 .yiv1264280723content-td h2 + h1 {margin-top:0 !important;}#yiv1264280723 .yiv1264280723content-td h2 {font-size:1.1em;font-weight:bold;margin:20px 0 5px;}#yiv1264280723 .yiv1264280723content-td h3 , #yiv1264280723 .yiv1264280723content-td h4 , #yiv1264280723 .yiv1264280723content-td h5 {font-size:13px;font-weight:bold;margin-bottom:5px;}#yiv1264280723 .yiv1264280723content-td p {margin:0 0 15px 0;}#yiv1264280723 .yiv1264280723content-td p.yiv1264280723no-margin {margin:0;min-height:15px;}#yiv1264280723 .yiv1264280723content-td p img, #yiv1264280723 .yiv1264280723content-td h1 img, #yiv1264280723 .yiv1264280723content-td h2 img, #yiv1264280723 .yiv1264280723content-td li img, #yiv1264280723 .yiv1264280723content-td a {color:#1251ba;text-decoration:underline;}#yiv1264280723 .yiv1264280723content-td strong {color:#606060;}#yiv1264280723 .yiv1264280723content-td ol, #yiv1264280723 .yiv1264280723content-td ul {margin:0 0 20px 40px;padding:0;list-style:disc;}#yiv1264280723 .yiv1264280723content-td ol {list-style:decimal;}#yiv1264280723 .yiv1264280723content-td ol li, #yiv1264280723 .yiv1264280723content-td ul li {margin:5px 0;}#yiv1264280723 .yiv1264280723content-td blockquote {padding:10px 0;margin:10px 0;font-style:italic;}#yiv1264280723 .yiv1264280723content-td blockquote a {color:#8C8C8C;}#yiv1264280723 .yiv1264280723content-td img {max-width:100%;margin:15px 0 15px;}#yiv1264280723 .yiv1264280723content-td hr {border:none;border-top:1px solid #DDD;border-bottom:0;margin:20px 0;}#yiv1264280723 .yiv1264280723content-td table th {font-weight:bold;background:#F6F6F6;}#yiv1264280723 .yiv1264280723content-td table td, #yiv1264280723 .yiv1264280723content-td table th {padding:7px 10px;border:1px solid #DADADA;text-align:left;vertical-align:top;}#yiv1264280723 .yiv1264280723content-td table {margin-bottom:20px;border-collapse:collapse;border-spacing:0;}#yiv1264280723 .yiv1264280723email_signature .yiv1264280723container {}#yiv1264280723 .yiv1264280723email_signature th {font-weight:normal;}#yiv1264280723 .yiv1264280723email_signature p, #yiv1264280723 .yiv1264280723email_signature h1, #yiv1264280723 .yiv1264280723email_signature h2 {margin:0;padding:0;} #yiv1264280723 .yiv1264280723content-td blockquote + * {margin-top:10px !important;}#yiv1264280723 .yiv1264280723ExternalClass .yiv1264280723content-td h1 {padding:15px 0 5px 0 !important;}#yiv1264280723 .yiv1264280723ExternalClass .yiv1264280723content-td h2 {padding:0 0 5px 0 !important;}#yiv1264280723 .yiv1264280723ExternalClass .yiv1264280723content-td p {padding:10px 0 !important;}#yiv1264280723 .yiv1264280723ExternalClass .yiv1264280723content-td hr + * {padding-top:20px !important;}#yiv1264280723 .yiv1264280723ExternalClass .yiv1264280723content-td ol , #yiv1264280723 .yiv1264280723ExternalClass .yiv1264280723content-td ul {padding:0 0 20px 40px !important;margin:0 !important;}#yiv1264280723 img {max-width:600px !important;}@media (max-width:600px) {#yiv1264280723 img {max-width:100% !important;}} 
+|   |
+|   
+Här kommer ett nytt test av vår nya epost-funktion
+   |
+|
+|   
+Med vänliga hälsningar,
+
+Herman Holgert
+Exteal Testing
+   |
+
+        

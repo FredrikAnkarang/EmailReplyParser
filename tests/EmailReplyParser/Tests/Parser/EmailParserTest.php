@@ -490,6 +490,7 @@ merci d'avance", $email->getVisibleText());
             array('Le 19/03/2014 11:34, Georges du chemin a écrit :'), // Thunderbird
             array('W dniu 2015-01-07 14:23, pbrzoski91@gmail.com pisze: '), // Thunderbird in polish
             array('Den 08/06/2015 kl. 21.21 skrev Test user <test@example.com>:'), // Danish
+            array('Den fredag 4 augusti 2023 kl. 11:54:23 CEST, Herman Holgert <hermanholgert@yahoo.com> skrev:'), // Swedish Yahoo
             array('Am 25.06.2015 um 10:55 schrieb Test user:'), // German 1
             array('Test user <test@example.com> schrieb:'), // German 2
             array('在 2016年11月8日，下午2:23，Test user <test@example.com> 写道：'), // Chinese Apple Mail iPhone parsed html
@@ -523,4 +524,5 @@ CONTENT
             array('Da: foo@example.com <foo@example.com>'),
         );
     }
+
 }
